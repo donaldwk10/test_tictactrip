@@ -1,4 +1,4 @@
-﻿# test_tictactrip
+﻿# Test technique Tictactrip
 
 
  * Le dossier ```data``` contient les differents datasets qui nous ete fournis pour le test
